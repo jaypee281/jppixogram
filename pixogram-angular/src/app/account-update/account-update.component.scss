@@ -1,0 +1,32 @@
+input[type=text],input[type=email] ,input[type=password],#us {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 25px;
+   text-align:center;
+   font-size:120%;
+  }
+  
+  /* Set a style for all buttons */
+  button {
+    
+   background-image:linear-gradient(to right, #F4F5D2  , #D7F8F9);
+    color:#353528;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 25px;
+    
+  }
+  
+  
+  
+  /* Add a hover effect for buttons */
+  button:hover {
+    opacity: 0.8;
+  }
